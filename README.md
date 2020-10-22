@@ -1,4 +1,4 @@
-🏙 Estudante de Ciências da computação.
+🏙 Estudante de Ciências da Computação.
 
 🚩 Familiarizado com C, Java, Python e Javascript.
 
