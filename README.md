@@ -1,5 +1,7 @@
 Estudante de Ciências da computação.
 
+Familiarizado com C, Java, Python e Javascript.
+
 Atualmente interessado em fazer sistemas Web e Mobile.
 
 
