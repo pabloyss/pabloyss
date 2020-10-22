@@ -1,5 +1,6 @@
-Estudante de Ciências da computação.\n
-Atualmente interessado em fazer sistemas robustos Web e Mobile.
+Estudante de Ciências da computação.
+
+Atualmente interessado em fazer sistemas Web e Mobile.
 
 
 <!--
