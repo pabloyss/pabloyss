@@ -1,4 +1,4 @@
-Estudante de Ciências da computação.
+Estudante de Ciências da computação.\n
 Atualmente interessado em fazer sistemas robustos Web e Mobile.
 
 
