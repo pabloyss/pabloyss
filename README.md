@@ -1,8 +1,9 @@
-Estudante de Ciências da computação.
+🏙 Estudante de Ciências da computação.
 
-Familiarizado com C, Java, Python e Javascript.
+🚩 Familiarizado com C, Java, Python e Javascript.
 
-Atualmente interessado em fazer sistemas Web e Mobile.
+👁‍🗨 Atualmente interessado em fazer sistemas Web e Mobile.
+
 
 
 <!--
